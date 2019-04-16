@@ -1,6 +1,8 @@
 # pythermal
 Impresión en impresoras térmicas
 
+Simply execute: `python easy_print.py`
+
 ## On Windows
 
 - Show device properties:
@@ -29,3 +31,5 @@ Bus 006 Device 002: ID 046d:c01b Logitech, Inc. MX310 Optical Mouse
 Bus 007 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 Bus 008 Device 001: ID 1d6b:0001 Linux Foundation 1.1 root hub
 ```
+
+Enjoy!
